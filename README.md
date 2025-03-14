@@ -18,8 +18,8 @@ This will start the application.
 
 After giving your code
 Run commands
-1. g++ -o mini_bank_system main.cpp
-2. ./mini_bank_system
+1. g++ main.cpp
+2. ./a.out
    
 Output
 ![image](https://github.com/user-attachments/assets/4da8fe26-ec74-465d-beb6-c8f12c1c0db4)
