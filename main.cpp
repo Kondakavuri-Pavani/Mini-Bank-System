@@ -46,7 +46,7 @@ int main() {
     int choice;
 
     do {
-        std::cout << "\nMini Banking System\n";
+        std::cout << "\nMini Banking\n";
         std::cout << "1. Deposit\n";
         std::cout << "2. Withdraw\n";
         std::cout << "3. Check Balance\n";
